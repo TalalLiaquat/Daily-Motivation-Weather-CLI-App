@@ -46,9 +46,9 @@ Copy code
 python app.py
 🔑 APIs Used
 OpenWeatherMap 🌤️
-## 📸 Output Screenshot
-![App Output](https://github.com/TalalLiaquat/Daily-Motivation-Weather-CLI-App/blob/main/output_Screenshot.png)
-
+## 📸 Screenshot
+### ▶ Outut  
+![Output](Screenshort.png)
 ## 🎮 How to Use
 
 Run the script → python app.py
