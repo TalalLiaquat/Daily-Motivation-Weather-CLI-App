@@ -46,65 +46,40 @@ Copy code
 python app.py
 🔑 APIs Used
 OpenWeatherMap 🌤️
+## 📸 Output Screenshot
+![App Output](https://github.com/TalalLiaquat/Daily-Motivation-Weather-CLI-App/blob/main/output_screenshot.png)
 
-ZenQuotes 💬
+## 🎮 How to Use
 
-AdviceSlip 💡
+Run the script → python app.py
 
-🧠 Example Output
-vbnet
-Copy code
-🌞 Welcome to Daily Motivation App 🌞
+Enter your city name
 
-Enter your city name: Karachi
+The app will show:
 
-Fetching data... Please wait...
+🌤️ Current weather info
 
-🌤️ Weather in Karachi: 31°C | Clear Sky
-💬 Quote of the Day: "The best way to predict the future is to invent it." — Alan Kay
-💡 Advice: Don’t let yesterday take up too much of today.
+💬 Motivational quote
 
-✨ Thank you for using Daily Motivation App! ✨
-👨‍💻 Author
-M. Talal Liaquat
-🎓 Computer Science Undergraduate | 💡 AI & Data Science Enthusiast
-📍 Karachi, Pakistan
-📧 [YourEmail@example.com]
+💡 Life advice
 
-📜 License
-This project is licensed under the MIT License — you are free to use, modify, and distribute it for any purpose with attribution.
+## 🚧 Future Enhancements
 
-⭐ If you like this project, don't forget to give it a star on GitHub!
+Add daily email/sms notifications
 
-sql
-Copy code
+Store favorite quotes locally
 
----
+Add voice output using text-to-speech
 
-### 🔹 Bonus Tip:
-If you want the **license file itself** to appear in your repo:
-1. Create a new file in your project → name it: `LICENSE`
-2. Paste this standard MIT License text:
+Show weather forecast for multiple days
 
-```text
-MIT License
+Add colorized output (using colorama)
 
-Copyright (c) 2025 M. Talal Liaquat
+## ✨ Author
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Developed by ❤️**M. Talal Liaquat**❤️
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+* LinkedIn: *https://www.linkedin.com/in/talal-liaquat/*
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 📄 License  
+This project is licensed under the [MIT License](LICENSE).
