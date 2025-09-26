@@ -48,7 +48,7 @@ python app.py
 OpenWeatherMap 🌤️
 ## 📸 Screenshot
 ### ▶ Outut  
-![Output](Screenshort.png)
+![Output](Screenshot.png)
 ## 🎮 How to Use
 
 Run the script → python app.py
